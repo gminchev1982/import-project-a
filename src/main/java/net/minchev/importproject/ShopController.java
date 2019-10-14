@@ -7,6 +7,5 @@ public class ShopController {
 
     public ShopController() {
         System.out.println("Boza");
-
     }
 }

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f30e668-602f-4848-b8ed-c580fcdb145f" name="Default Changelist" comment="" />
+    <list default="true" id="0f30e668-602f-4848-b8ed-c580fcdb145f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/minchev/importproject/ImportProjectApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/minchev/importproject/ImportProjectApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/minchev/importproject/ShopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/minchev/importproject/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/import-project-1.0.0.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/import-project-1.0.0.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-net.minchev.importproject.ImportProjectApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-net.minchev.importproject.ImportProjectApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/net.minchev.importproject.ImportProjectApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/net.minchev.importproject.ImportProjectApplicationTests.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +24,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1S3XAPpsRDoKFBIKvGthHendEC8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../primary-project" />
+    <property name="settings.editor.selected.configurable" value="xpath.settings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,7 +67,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\georgi.minchev\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,5 +78,27 @@
       <updated>1570793108202</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="import-project" type="b2602c69:ProjectViewProjectNode" />
+        <item name="import-project" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>
